@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://apisproductions.com/wp-content/uploads/2020/09/download-1.jpg);
+}
+
+.grid {
+    background-color: lightskyblue;
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: lightskyblue;
+}
